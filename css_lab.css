@@ -1,0 +1,43 @@
+body > header {
+    background-color: gold;
+    padding: 15px;
+}
+
+#header {
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 39;
+}
+#headerlist {
+    list-style: none;
+}
+
+body > header > h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    ;
+}
+#firstsection {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#secondsection {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#thirdsection {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 80%;
+    margin: auto;
+}
+
+#txtbox {
+    height: 200px;
+    width: 1250px;
+}
+
+body > footer {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gold;
+    text-align: center;
+    padding: 20px;
+}
+
